@@ -1,4 +1,4 @@
-# 👷‍♂React Orkut Recreation
+# 👷‍♂️React Orkut Recreation
 
 It was about 2 months ago the immersion of alura, and clearly from there, I wanted to look for frameworks and (variations; non-technical name) of Js, and I'm really enjoying it!!
 
